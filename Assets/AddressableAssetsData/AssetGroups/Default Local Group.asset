@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 62e5e4f6fe2d73943978e80886ded931
+  m_SerializeEntries:
+  - m_GUID: 7a04c3d9839aac54488cc634412f39df
+    m_Address: Rocket1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - rockets
+    m_MainAsset: {fileID: 11400000, guid: 7a04c3d9839aac54488cc634412f39df, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 7a04c3d9839aac54488cc634412f39df, type: 2}
+  - m_GUID: 04aae8c44f4583345b79a953d29ffda2
+    m_Address: Rocket3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - rockets
+    m_MainAsset: {fileID: 11400000, guid: 04aae8c44f4583345b79a953d29ffda2, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 04aae8c44f4583345b79a953d29ffda2, type: 2}
+  - m_GUID: 9532405cbaaf7454998b58e4cb885011
+    m_Address: Rocket2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - rockets
+    m_MainAsset: {fileID: 11400000, guid: 9532405cbaaf7454998b58e4cb885011, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 9532405cbaaf7454998b58e4cb885011, type: 2}
+  - m_GUID: c9d74022b2ffb7f43a54e9eec7e59b2f
+    m_Address: Planet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 96f419aca07da464190e817535f978c1
+    m_Address: Rocket
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c5b5b137fb252414d81444b5ecdbe0e7
+    m_Address: MainMenu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7287374664224570612, guid: c5b5b137fb252414d81444b5ecdbe0e7,
+      type: 3}
+    m_TargetAsset: {fileID: 7287374664224570612, guid: c5b5b137fb252414d81444b5ecdbe0e7,
+      type: 3}
+  - m_GUID: c0b4c08ebafe5c649b1b82a586d6f5fd
+    m_Address: Pause
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7287374664224570612, guid: c0b4c08ebafe5c649b1b82a586d6f5fd,
+      type: 3}
+    m_TargetAsset: {fileID: 7287374664224570612, guid: c0b4c08ebafe5c649b1b82a586d6f5fd,
+      type: 3}
+  - m_GUID: 1592f2f0e252d3540b77ba73d9c33d29
+    m_Address: Loading
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3b13ee129ceb62d43aee4538741976e4
+    m_Address: Load
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e7355cdb5adb1e441b68957e1e32e568
+    m_Address: PlanetGenerationConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8788db51fafb1b6498572c8202165adf
+    m_Address: PlanetConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 37fc3f6c9d4a19a43bcbe67fa6ae346b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fc7ad2eea39d549478a6265acc3704fb, type: 2}
+    - {fileID: 11400000, guid: 1fb11d36309b9f84fa250c956eaf4174, type: 2}
